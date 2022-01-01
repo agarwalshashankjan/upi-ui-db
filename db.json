@@ -1,0 +1,104 @@
+{
+  "GetTransactionHistory": [
+    {
+      "id": 1,
+      "transactions": [
+        {
+          "transaction": {
+            "transactionId": 1,
+            "transactionDate": "20-Feb-2021 18:00",
+            "expiryDate": "21-Feb-2021 18:00",
+            "amount": 1000,
+            "description": "Rent",
+            "status": 1,
+            "type": 1,
+            "direction": 1,
+            "customerUpi": "NA",
+            "customerVpayId": 1,
+            "customerVpay": "abc@okhdfc",
+            "partnerUpi": "NA",
+            "partnerVpayId": 2,
+            "partnerVpay": "def@ybl"
+          }
+        },
+        {
+          "transaction": {
+            "transactionId": 1,
+            "transactionDate": "20-Feb-2021 18:00",
+            "expiryDate": "21-Feb-2021 18:00",
+            "amount": 1000,
+            "description": "Rent",
+            "status": 1,
+            "type": 1,
+            "direction": 2,
+            "customerUpi": "NA",
+            "customerVpayId": 1,
+            "customerVpay": "abc@okhdfc",
+            "partnerUpi": "NA",
+            "partnerVpayId": 2,
+            "partnerVpay": "def@ybl"
+          }
+        },
+        {
+          "transaction": {
+            "transactionId": 1,
+            "transactionDate": "20-Feb-2021 18:00",
+            "expiryDate": "21-Feb-2021 18:00",
+            "amount": 1000,
+            "description": "Rent",
+            "status": 1,
+            "type": 2,
+            "direction": 1,
+            "customerUpi": "NA",
+            "customerVpayId": 1,
+            "customerVpay": "abc@okhdfc",
+            "partnerUpi": "NA",
+            "partnerVpayId": 2,
+            "partnerVpay": "def@ybl"
+          }
+        },
+        {
+          "transaction": {
+            "transactionId": 1,
+            "transactionDate": "20-Feb-2021 18:00",
+            "expiryDate": "21-Feb-2021 18:00",
+            "amount": 1000,
+            "description": "Rent",
+            "status": 1,
+            "type": 2,
+            "direction": 2,
+            "customerUpi": "NA",
+            "customerVpayId": 1,
+            "customerVpay": "abc@okhdfc",
+            "partnerUpi": "NA",
+            "partnerVpayId": 2,
+            "partnerVpay": "def@ybl"
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "transactions": [
+        {
+          "transaction": {
+            "transactionId": 1,
+            "transactionDate": "21-Feb-2021 18:00",
+            "expiryDate": "22-Feb-2021 18:00",
+            "amount": 2300,
+            "description": "Rent",
+            "status": 1,
+            "type": 1,
+            "direction": 1,
+            "customerUpi": "NA",
+            "customerVpayId": 3,
+            "customerVpay": "xyz@okhdfc",
+            "partnerUpi": "NA",
+            "partnerVpayId": 4,
+            "partnerVpay": "pqr@ybl"
+          }
+        }
+      ]
+    }
+  ]
+}
